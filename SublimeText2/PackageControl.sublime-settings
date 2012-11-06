@@ -3,9 +3,13 @@
 	"installed_packages":
 	[
 		"HTML5",
+		"ConvertToUTF8",
+		"FileDiffs",
+		"Git",
 		"Markdown Preview",
 		"Package Control",
 		"SideBarEnhancements",
+		"SublimeLinter",
 		"Theme - Phoenix",
 		"Theme - Soda"
 	]
