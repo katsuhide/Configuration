@@ -8,5 +8,6 @@
 	"line_padding_top": 5,
 	"tab_size": 4,
 	"theme": "Soda Dark.sublime-theme",
+	"highlight_modified_tabs": true,
 	"word_wrap": true
 }
