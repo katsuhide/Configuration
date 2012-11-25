@@ -1,0 +1,8 @@
+" 環境変数
+set smartindent
+set autoindent
+set ignorecase
+set smartcase
+
+"ノーマルモードでエンターキーを打つことで改行を挿入
+noremap <CR> o<ESC>
