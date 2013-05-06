@@ -1,13 +1,22 @@
 {
-	"color_scheme": "Packages/Theme - Phoenix/Color Scheme/Tomorrow-Night.tmTheme",
-	"font_size": 13,
-	"highlight_line": true,
+	// "color_scheme": "Packages/Theme - Phoenix/Color Scheme/Tomorrow-Night.tmTheme",
+	"color_scheme": "Packages/Theme - Myac/textmate/Tomorrow.tmTheme",
+	// "color_scheme": "Packages/Theme - Myac/textmate/Tomorrow-Night-Eighties.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 14,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 	],
 	"line_padding_top": 5,
+	"open_files_in_new_window": false,
 	"tab_size": 4,
-	"theme": "Soda Dark.sublime-theme",
-	"highlight_modified_tabs": true,
+	// "theme": "Soda Dark.sublime-theme",
+	// "theme": "Soda Light.sublime-theme",
+	"build_env":
+	{
+		"PATH":"/Users/${USER_NAME}/.rbenv/shims:/usr/local/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"
+	},
+	"vintage_start_in_command_mode": true,
 	"word_wrap": true
 }
